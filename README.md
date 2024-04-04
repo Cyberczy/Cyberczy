@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/lua-2C2D72?&style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/arch-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/nixos-5277C3?&style=for-the-badge&logo=nixos&logoColor=white"/>
 </p>
